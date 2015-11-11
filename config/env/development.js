@@ -18,7 +18,8 @@ module.exports = {
    ***************************************************************************/
 
   models: {
-    connection: 'someMongodbServer'
+    // connection: 'localMongodbServer'
+    connection: 'remoteMongolabMongoDB'
   }
 
 };

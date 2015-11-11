@@ -36,6 +36,12 @@ module.exports.routes = {
     view: 'homepage'
   }
 
+  // get /emoji
+  // post /emoji
+  // get /emoji/:id
+  // put /emoji/:id
+  // delete /emoji/:id
+
   /***************************************************************************
   *                                                                          *
   * Custom routes here...                                                    *
