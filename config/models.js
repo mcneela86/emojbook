@@ -19,7 +19,7 @@ module.exports.models = {
   ***************************************************************************/
   // connection: 'localDiskDb',
   // connection: 'localMongodbServer',
-  connection: 'remoteMongolabMongoDB',
+  // connection: 'remoteMongolabMongoDB',
   
   /***************************************************************************
   *                                                                          *
