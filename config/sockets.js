@@ -44,6 +44,12 @@ module.exports.sockets = {
   // -OR-
   //
 
+  adapter: 'redis',
+  host: 'panga.redistogo.com',
+  port: 9824,
+  user: 'redistogo',
+  pass: 'acbde44515bb6ca80b5d7165e61a5348',
+
   // adapter: 'redis',
   // host: '127.0.0.1',
   // port: 6379,
